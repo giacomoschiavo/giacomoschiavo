@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @giacomoschiavo
-- 👀 I’m interested in web dev, ai and android programming
-- 🌱 I’m currently learning React, Kotlin and Tensorflow (python and js)
+- 👀 I’m interested in AI algorithms and web dev
